@@ -11,7 +11,7 @@
 //
 //Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 
-public class Problem6 {
+public class Problem006 {
 	public static void main(String[] args){
 		System.out.println(sumOfSquares());
 		System.out.println(squareOfSum());

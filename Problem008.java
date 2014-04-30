@@ -1,5 +1,3 @@
-import java.math.BigInteger;
-
 //https://projecteuler.net/problem=8
 //Find the greatest product of five consecutive digits in the 1000-digit number.
 //
@@ -24,7 +22,7 @@ import java.math.BigInteger;
 //05886116467109405077541002256983155200055935729725
 //71636269561882670428252483600823257530420752963450
 
-public class Problem8 {
+public class Problem008 {
 	public static void main(String[] args) {
 		System.out.println(calc());
 	}
